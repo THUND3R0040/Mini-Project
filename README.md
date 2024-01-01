@@ -14,6 +14,6 @@ We have implemented different classes , each represents a sepcific part of the u
 -We also created classes for classrooms , clubs , courses , exams , subjects and testSheet .
 
 -These classes are used as attributs in the classes Herited from Human to organise their functionalities.
-
+## Main App
 In the main App , we used Human type and used casting to avoid execution errors .
 
