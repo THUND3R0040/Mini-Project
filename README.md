@@ -8,9 +8,9 @@ We have implemented different classes , each represents a sepcific part of the u
 -Student class herits from Human and has some additional methods and attributes special for Students.
 ##Teacher Class 
 -Teacher class herits from Human and has some additional methods and attributes special for Teachers.
-## Admini Class
+## Admin Class
 -Admin class herits from Human and has some additional methods and attributes special for Admins.
-##Other Classes
+## Other Classes
 -We also created classes for classrooms , clubs , courses , exams , subjects and testSheet .
 -These classes are used as attributs in the classes Herited from Human to organise their functionalities.
 
