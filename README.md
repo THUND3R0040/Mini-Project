@@ -17,3 +17,5 @@ We have implemented different classes , each represents a sepcific part of the u
 ## Main App
 In the main App , we used Human type and used casting to avoid execution errors .
 
+Contains the main method to demonstrate the functionality of the university management system.
+
